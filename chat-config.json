@@ -1,0 +1,15 @@
+{
+  "VERSION": "0.0.6",
+  "UPDATED": "2014-01-23 17:30",
+  "HTTP_PORT": 8888,
+  "MAX_KEEP_MSGS": 1000,
+  "CHAT_MSG_FILE": "chat-msgs.json",
+  "STATIC_FILES": {
+    "/chat-client.js": "chat-client.js",
+    "/jquery.min.js": "jquery-1.10.2.min.js",
+    "/jquery.cookie.js": "jquery.cookie.js",
+    "/favicon.ico": "cubes_green.ico",
+    "/index.html": "index.html",
+    "/": "index.html"
+  }
+}
